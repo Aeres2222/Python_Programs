@@ -1,7 +1,7 @@
 # Python_Programs
-This repo contains my python programs.
+<h1><i>This repo contains my python programs.</i></h1>
 <br>
-By: Divyansh P. Chavda.
+<h1>By: Divyansh P. Chavda.</h1>
 <br><br>
 THIS REPO HAS PYTHON PROGRAMS FROM APNA COLLEGE PYTHON TUTORIAL FOR BEGINNERS - FULL COURSE.
 <br>
